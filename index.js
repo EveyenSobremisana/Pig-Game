@@ -51,7 +51,7 @@ document.querySelector('.btn-hold').addEventListener('click', function() {
         if(input) {
             winningScore = input;
         } else {
-            winningScore = 100;
+            winningScore = 20;
         }
         
         // Check if player won the game
