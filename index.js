@@ -1,5 +1,5 @@
  $("document").ready( function () {
-        alert("THE PIG GAME INSTRUCTIONS \n\n The game has 2 players, playing in rounds.\n\n In each turn, players rolls a dice as many times as they wishes.\n\n Each result get added to their current score.\n\n If the player rolls a 1, all his current score gets lost and loose a turn.\n\n Players can choose to 'Hold'\n\nThe first player to reach 100 points on current score wins the game");
+        alert("THE PIG GAME INSTRUCTIONS \n\n The game has 2 players, playing in rounds.\n\n In each turn, players rolls a dice as many times as they wishes.\n\n Each result get added to their current score.\n\n If the player rolls a 1, all his current score gets lost and loose a turn.\n\n Players can choose to 'Hold'\n\nThe first player to reach 20 points on current score wins the game");
     }); 
 
 var scores, roundScore, activePlayer, gamePlaying;
